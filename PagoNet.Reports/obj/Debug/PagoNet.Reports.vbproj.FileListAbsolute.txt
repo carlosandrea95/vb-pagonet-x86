@@ -1,0 +1,16 @@
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.Resources.resources
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.vbproj.GenerateResource.Cache
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.dll
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.pdb
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.xml
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.dll
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.xml
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Debug\PagoNet.Reports.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Debug\PagoNet.Reports.pdb

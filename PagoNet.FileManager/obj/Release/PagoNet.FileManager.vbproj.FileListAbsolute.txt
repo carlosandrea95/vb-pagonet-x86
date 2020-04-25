@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\Release\PagoNet.FileManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\Release\PagoNet.FileManager.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\Release\PagoNet.FileManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\Release\PagoNet.FileManager.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\Release\PagoNet.FileManager.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\Release\PagoNet.FileManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\Release\PagoNet.FileManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\Release\PagoNet.FileManager.pdb

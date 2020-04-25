@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\bin\Debug\PagoNet.Database.MySql.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\bin\Debug\PagoNet.Database.MySql.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\bin\Debug\PagoNet.Database.MySql.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\obj\Debug\PagoNet.Database.MySql.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\obj\Debug\PagoNet.Database.MySql.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\obj\Debug\PagoNet.Database.MySql.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\obj\Debug\PagoNet.Database.MySql.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database.MySql\obj\Debug\PagoNet.Database.MySql.pdb

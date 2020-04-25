@@ -1,0 +1,13 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\bin\Release\PagoNet.CustomControls.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\bin\Release\PagoNet.CustomControls.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\bin\Release\PagoNet.CustomControls.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.AlertBox.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.BtnTerminal.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.CurrencyTextBox.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.WinTittle.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.CustomControls\obj\Release\PagoNet.CustomControls.LblResumenTotalizar.resources

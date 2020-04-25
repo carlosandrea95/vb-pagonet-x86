@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\bin\Debug\PagoNet.Engine.Admin.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\bin\Debug\PagoNet.Engine.Admin.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\bin\Debug\PagoNet.Engine.Admin.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\obj\Debug\PagoNet.Engine.Admin.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\obj\Debug\PagoNet.Engine.Admin.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\obj\Debug\PagoNet.Engine.Admin.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\obj\Debug\PagoNet.Engine.Admin.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Admin\obj\Debug\PagoNet.Engine.Admin.pdb

@@ -1,0 +1,9 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\x64\Debug\PagoNet.FileManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\x64\Debug\PagoNet.FileManager.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\x64\Debug\PagoNet.FileManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\bin\x64\Debug\ICSharpCode.SharpZipLib.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\x64\Debug\PagoNet.FileManager.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\x64\Debug\PagoNet.FileManager.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\x64\Debug\PagoNet.FileManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\x64\Debug\PagoNet.FileManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.FileManager\obj\x64\Debug\PagoNet.FileManager.pdb

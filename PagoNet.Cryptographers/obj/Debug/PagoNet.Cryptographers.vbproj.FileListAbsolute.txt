@@ -1,0 +1,16 @@
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.Resources.resources
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.vbproj.GenerateResource.Cache
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.dll
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.pdb
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.xml
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.dll
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.xml
+C:\Users\Carlos Sandrea\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\bin\Debug\PagoNet.Cryptographers.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Cryptographers\obj\Debug\PagoNet.Cryptographers.pdb

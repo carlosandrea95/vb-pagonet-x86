@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\x64\Debug\PagoNet.Mailer.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\x64\Debug\PagoNet.Mailer.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\x64\Debug\PagoNet.Mailer.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\x64\Debug\PagoNet.Mailer.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\x64\Debug\PagoNet.Mailer.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\x64\Debug\PagoNet.Mailer.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\x64\Debug\PagoNet.Mailer.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\x64\Debug\PagoNet.Mailer.pdb

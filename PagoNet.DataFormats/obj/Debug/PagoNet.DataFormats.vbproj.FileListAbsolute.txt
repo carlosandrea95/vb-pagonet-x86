@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\obj\Debug\PagoNet.DataFormats.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\obj\Debug\PagoNet.DataFormats.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\bin\Debug\PagoNet.DataFormats.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\bin\Debug\PagoNet.DataFormats.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\bin\Debug\PagoNet.DataFormats.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\obj\Debug\PagoNet.DataFormats.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\obj\Debug\PagoNet.DataFormats.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.DataFormats\obj\Debug\PagoNet.DataFormats.pdb

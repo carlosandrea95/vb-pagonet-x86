@@ -1,0 +1,10 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\bin\Release\PagoNet.Update.exe
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\bin\Release\PagoNet.Update.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\bin\Release\PagoNet.Update.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.update.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.exe
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Update\obj\x86\Release\PagoNet.Update.vbprojResolveAssemblyReference.cache

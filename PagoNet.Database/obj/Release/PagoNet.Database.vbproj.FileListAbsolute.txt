@@ -1,0 +1,9 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\bin\Release\PagoNet.Database.dll.config
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\bin\Release\PagoNet.Database.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\bin\Release\PagoNet.Database.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\bin\Release\PagoNet.Database.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\obj\Release\PagoNet.Database.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\obj\Release\PagoNet.Database.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\obj\Release\PagoNet.Database.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\obj\Release\PagoNet.Database.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Database\obj\Release\PagoNet.Database.pdb

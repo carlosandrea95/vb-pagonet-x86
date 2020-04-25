@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\Release\PagoNet.Mailer.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\Release\PagoNet.Mailer.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\bin\Release\PagoNet.Mailer.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\Release\PagoNet.Mailer.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\Release\PagoNet.Mailer.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\Release\PagoNet.Mailer.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\Release\PagoNet.Mailer.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Mailer\obj\Release\PagoNet.Mailer.pdb

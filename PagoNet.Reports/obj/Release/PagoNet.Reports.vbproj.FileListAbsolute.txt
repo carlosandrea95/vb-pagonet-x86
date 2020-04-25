@@ -1,0 +1,9 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Release\PagoNet.Reports.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Release\PagoNet.Reports.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\bin\Release\PagoNet.Reports.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Reports\obj\Release\PagoNet.Reports.vbprojResolveAssemblyReference.cache

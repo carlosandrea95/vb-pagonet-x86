@@ -1,0 +1,8 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\bin\Debug\PagoNet.Engine.Sync.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\bin\Debug\PagoNet.Engine.Sync.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\bin\Debug\PagoNet.Engine.Sync.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\obj\Debug\PagoNet.Engine.Sync.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\obj\Debug\PagoNet.Engine.Sync.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\obj\Debug\PagoNet.Engine.Sync.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\obj\Debug\PagoNet.Engine.Sync.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.Engine.Sync\obj\Debug\PagoNet.Engine.Sync.pdb

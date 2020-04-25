@@ -1,0 +1,12 @@
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.ReportManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.ReportManager.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.ReportManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.Resources.resources
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.vbproj.GenerateResource.Cache
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.Reports.dll
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.Reports.pdb
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\bin\x64\Debug\PagoNet.Reports.xml
+D:\RESPALDO USUARIO\Desktop\PagoNet\PagoNet.ReportManager\obj\x64\Debug\PagoNet.ReportManager.vbprojResolveAssemblyReference.cache
